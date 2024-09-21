@@ -17,7 +17,7 @@
       "codedge/laravel-fpdf": "^1.7",
       "consoletvs/charts": "6.*",
      
-      "elibyy/tcpdf-laravel": "^8.0",
+      "elibyy/tcpdf-laravel": "^11.1",
       "fideloper/proxy": "^4.0",
       "guzzlehttp/guzzle": "^7.0.1",
       "intervention/image": "^2.5",
