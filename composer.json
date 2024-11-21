@@ -31,7 +31,7 @@
       "maatwebsite/excel": "^3.1",
       "nesbot/carbon": "^2.46",
       "predis/predis": "^1.1",
-      "stripe/stripe-php": "^15.3",
+      "stripe/stripe-php": "^16.3",
       "syamsoul/laravel-datatable-ssp": "^2.2",
       "symfony/translation": "^5.2",
       "webklex/laravel-pdfmerger": "^1.3",
